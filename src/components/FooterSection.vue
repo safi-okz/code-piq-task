@@ -7,7 +7,7 @@ import logo_icon from '@/assets/img/logo-icon.png';
 </script>
 
 <template>
-    <div class="footer_back -mt-[8rem] overflow-hidden pb-12">
+    <div class="footer_back -mt-[5rem] overflow-hidden pb-12">
         <img src="../assets/img/footer.svg" class="" alt="">
         <div class="grid grid-lg-cols-2 md:grid-cols-2 sm:grid-cols-1 px-[5rem]">
             <div>
@@ -46,12 +46,3 @@ import logo_icon from '@/assets/img/logo-icon.png';
             
     </div>
 </template>
-
-<style scoped>
-.footer_back {
-    /* background-image: url('../assets/img/footer.svg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top; */
-}
-</style>

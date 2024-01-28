@@ -37,7 +37,7 @@
                         <h4 class="text-[5.5rem] text-white">100&percnt;</h4>
                     <div class="ms-2">
                         <h1 class="text-[1.6rem] uppercase text-[#00D2AE]">
-                            <span class="block -mb-3 mt-1">clients</span>
+                            <span class="block -mb-1 mt-1">clients</span>
                             <span class="">satisfaits</span>                                   
                         </h1>
                     </div>
@@ -48,7 +48,7 @@
                         <h4 class="text-[5.5rem] text-white">14</h4>
                     <div class="ms-2">
                         <h1 class="text-[1.6rem] uppercase text-[#00D2AE]">
-                            <span class="block -mb-3 mt-1">années au</span>
+                            <span class="block -mb-1 mt-1">années au</span>
                             <span class="">service de nos clients</span>                                   
                         </h1>
                     </div>
