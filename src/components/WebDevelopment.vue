@@ -37,7 +37,6 @@ const props = defineProps({
 
 <style scoped>
 .web_back {
-    /* background-image: url('../assets/img/computer.svg'); */
     background-repeat: no-repeat;
     background-size: cover;
 }

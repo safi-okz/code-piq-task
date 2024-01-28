@@ -34,9 +34,7 @@ import plusIcon from '@/assets/img/plusIcon.svg'
             <h4 class="font-bold ms-2">Savoir plus</h4>
         </div>
     </div>
-    <!-- <img src="../assets/img/footer.svg" alt=""> -->
     </div>
-    
 </template>
 
 <style scoped>
@@ -46,6 +44,5 @@ import plusIcon from '@/assets/img/plusIcon.svg'
     background-size: cover;
     background-position: center;
     height: 550px;
-    /* background-color: #fff; */
 }
 </style>
